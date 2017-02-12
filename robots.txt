@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ohyooo.com/sitemap.xml
